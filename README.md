@@ -54,7 +54,7 @@ Ho lavorato principalmente con Node.js ed Express per il backend, MySQL come dat
 
 ---
 
-## Progetti Principali
+## Alcuni miei progetti
 
 ### 🍹 ByteBar — Gestionale per Bar
 Sistema di gestione operativa per bar e ristoranti, progettato per essere usato in produzione su dispositivi mobile e tablet.
