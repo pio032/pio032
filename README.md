@@ -7,9 +7,8 @@
 Sviluppo applicazioni web complete, dal database all'interfaccia utente.
 Mi concentro sulla qualità del codice, sull'esperienza d'uso e sulla solidità dell'architettura.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pietro-ardizzone)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tua@email.com)
-[![Profile views](https://komarev.com/ghpvc/?username=pio032&color=0969da&style=flat-square&label=Profile+views)](https://github.com/pio032)
+[![LinkedIn](www.linkedin.com/in/pietroardizzone)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pietro.ardi@icloud.com)
 
 </div>
 
