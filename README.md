@@ -7,7 +7,7 @@
 Sviluppo applicazioni web complete, dal database all'interfaccia utente.
 Mi concentro sulla qualità del codice, sull'esperienza d'uso e sulla solidità dell'architettura.
 
-[![LinkedIn](www.linkedin.com/in/pietroardizzone)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietroardizzone)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pietro.ardi@icloud.com)
 
 </div>
