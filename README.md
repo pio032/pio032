@@ -2,10 +2,10 @@
 
 # Pietro Ardizzone
 
-**Full-Stack Developer** — Milano, Italia 🇮🇹
+**Full-Stack Developer** — Milan, Italy 🇮🇹
 
-Sviluppo applicazioni web complete, dal database all'interfaccia utente.
-Mi concentro sulla qualità del codice, sull'esperienza d'uso e sulla solidità dell'architettura.
+I build complete web applications, from the database to the user interface.
+My focus is on code quality, user experience, and architectural robustness.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietroardizzone)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pietro.ardi@icloud.com)
@@ -14,15 +14,15 @@ Mi concentro sulla qualità del codice, sull'esperienza d'uso e sulla solidità 
 
 ---
 
-## Su di me
+## About Me
 
-Sono uno sviluppatore appassionato di architetture backend e interfacce pulite. Mi piace partire da un problema reale e costruire una soluzione completa — gestire la complessità di un sistema multi-ruolo, integrare API esterne, ottimizzare query SQL o progettare un'esperienza mobile fluida.
+I'm a developer with a passion for backend architecture and clean interfaces. I enjoy starting from a real problem and building a complete solution — managing the complexity of a multi-role system, integrating external APIs, optimizing SQL queries, or designing a smooth mobile experience.
 
-Ho lavorato principalmente con Node.js ed Express per il backend, MySQL come database relazionale e JavaScript vanilla o React per il frontend. Sono abituato a lavorare su progetti end-to-end, dalla progettazione del database al deploy.
+I've worked primarily with Node.js and Express on the backend, MySQL as a relational database, and vanilla JavaScript or React on the frontend. I'm used to working on end-to-end projects, from database design to deployment.
 
 ---
 
-## Stack Tecnologico
+## Tech Stack
 
 **Backend**
 
@@ -53,46 +53,46 @@ Ho lavorato principalmente con Node.js ed Express per il backend, MySQL come dat
 
 ---
 
-## Alcuni miei progetti
+## Projects
 
-### 🍹 ByteBar — Gestionale per Bar
-Sistema di gestione operativa per bar e ristoranti, progettato per essere usato in produzione su dispositivi mobile e tablet.
+### 🍹 ByteBar — Bar Management System
+An operational management system for bars and restaurants, designed for production use on mobile devices and tablets.
 
-L'applicazione gestisce il flusso completo di un servizio: dalla presa dell'ordine da parte del cameriere, alla preparazione in cucina e al bancone, fino al pagamento in cassa. Ogni ruolo (admin, cameriere, cucina, bancone, cassa) ha una propria interfaccia ottimizzata, con aggiornamenti in tempo reale e autenticazione basata sui permessi.
+The application handles the complete service workflow: from order taking by waitstaff, to preparation in the kitchen and at the counter, through to payment at the till. Each role (admin, waiter, kitchen, bar, cashier) has its own optimized interface, with real-time updates and permission-based authentication.
 
-Il pannello admin include una dashboard statistica con grafici sui trend di vendita, classifica dei prodotti più venduti per quantità e per incasso, e la possibilità di esportare report completi in formato Excel.
+The admin panel includes a statistics dashboard with sales trend charts, a ranking of best-selling products by volume and revenue, and the ability to export comprehensive reports in multi-sheet Excel format.
 
-**Tecnologie:** Node.js · Express · MySQL · Session Auth · Chart.js · XLSX · Multer
+**Tech:** Node.js · Express · MySQL · Session Auth · Chart.js · XLSX · Multer
 
-**Funzionalità chiave:**
-- Sistema di autenticazione con 5 ruoli e permessi differenziati
-- Aggiornamento automatico delle comande ogni pochi secondi
-- Gestione disponibilità prodotti in tempo reale
-- Upload foto prodotti con supporto alla fotocamera mobile
-- Log di sistema completo con visualizzazione dall'interfaccia admin
-- Report statistici con export Excel multi-foglio
-
----
-
-### ✈️ FlightBook — Diario di Volo Personale
-Applicazione web per la pianificazione e il tracciamento di rotte aeree, rivolta ad appassionati di aviazione generale e studenti piloti.
-
-Permette di pianificare rotte tra aeroporti tramite codice ICAO, visualizzarle su mappa 3D interattiva con Mapbox, calcolare tempi di percorrenza e consumi di carburante in base alle caratteristiche del velivolo selezionato, e consultare dati meteo live lungo la rotta. Un'integrazione con modelli AI locali via Ollama consente di ricevere analisi dettagliate della rotta in streaming.
-
-**Tecnologie:** Node.js · Express · MySQL · Mapbox GL JS · Python · Ollama · Open-Meteo API
-
-**Funzionalità chiave:**
-- Ricerca aeroporti per codice ICAO o nome, con dati completi
-- Mappa 3D globo con tracciamento della rotta e marker meteo interattivi
-- Calcolo automatico distanza, tempo di volo e consumo carburante
-- Analisi AI della rotta con streaming della risposta (Gemma 3)
-- Disegno manuale di waypoints sulla mappa
-- Autenticazione con 2FA via Telegram Bot
-- Statistiche ore di volo mensili e totali
+**Key Features:**
+- Authentication system with 5 roles and differentiated permissions
+- Automatic order refresh every few seconds
+- Real-time product availability management
+- Product photo upload with mobile camera support
+- Full system log with admin interface viewer
+- Statistical reports with multi-sheet Excel export
 
 ---
 
-## Statistiche GitHub
+### ✈️ FlightBook — Personal Flight Log
+A web application for planning and tracking flight routes, aimed at general aviation enthusiasts and student pilots.
+
+It allows users to plan routes between airports using ICAO codes, visualize them on an interactive 3D map powered by Mapbox, calculate flight times and fuel consumption based on the selected aircraft's specifications, and check live weather data along the route. An integration with local AI models via Ollama enables detailed route analysis with streaming responses.
+
+**Tech:** Node.js · Express · MySQL · Mapbox GL JS · Python · Ollama · Open-Meteo API
+
+**Key Features:**
+- Airport search by ICAO code or name, with full data
+- 3D globe map with route tracking and interactive weather markers
+- Automatic calculation of distance, flight time, and fuel consumption
+- AI-powered route analysis with streaming output (Gemma 3)
+- Manual waypoint drawing directly on the map
+- Authentication with 2FA via Telegram Bot
+- Monthly and total flight hour statistics
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -101,4 +101,3 @@ Permette di pianificare rotte tra aeroporti tramite codice ICAO, visualizzarle s
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pio032&layout=compact&theme=github_dark&hide_border=true&title_color=0969da)
 
 </div>
-
