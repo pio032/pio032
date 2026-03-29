@@ -16,6 +16,6 @@ jobs:
           fetch-depth: 0
 
       - name: Generate Snake
-        uses: Ileriayo/github-contribution-grid-snake@main
+        uses: arunsworld/github-contribution-grid-snake@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
