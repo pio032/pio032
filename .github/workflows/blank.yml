@@ -1,15 +1,18 @@
-name: Generate Snake
+name:  Generate Snake
 
 on:
-  schedule: # Pianifica l'esecuzione ogni 24 ore
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permette di avviarlo manualmente
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate Snake Wallpaper
+      - name:  Generate Snake Wallpaper
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -19,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push Snake to Output Branch
+      - name:  Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
