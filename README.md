@@ -121,7 +121,7 @@ I enjoy the challenge of building reliable, self-hosted systems from scratch.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pio032&show_icons=true&theme=github_dark&hide_border=true&title_color=0969da&icon_color=0969da)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pio032&show_icons=true&theme=github_dark&hide_border=true&title_color=0969da&icon_color=0969da&count_private=true&cache_seconds=86400&v=1)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pio032&layout=compact&theme=github_dark&hide_border=true&title_color=0969da)
 
