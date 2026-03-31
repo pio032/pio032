@@ -127,7 +127,7 @@ I enjoy the challenge of building reliable, self-hosted systems from scratch.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pio032/pio032/output/github-snake-dark.gif">
-  <img alt="snake" src="https://raw.githubusercontent.com/TUO_USERNAME/TUO_USERNAME/output/github-snake.gif">
+  <img alt="snake" src="https://raw.githubusercontent.com/pio032/pio032/output/github-snake.gif">
 </picture>
 
 </div>
