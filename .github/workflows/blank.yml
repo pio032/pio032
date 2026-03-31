@@ -1,4 +1,4 @@
-name:  Generate Snake
+name: Generate Snake
 
 on:
   schedule:
@@ -12,17 +12,19 @@ jobs:
       contents: write
 
     steps:
-      - name:  Generate Snake Wallpaper
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif
+            dist/github-snake-dark.gif?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name:  Push Snake to Output Branch
+      - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

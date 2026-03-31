@@ -125,7 +125,9 @@ I enjoy the challenge of building reliable, self-hosted systems from scratch.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pio032&layout=compact&theme=github_dark&hide_border=true&title_color=0969da)
 
-![Snake animation](https://github.com/pio032/pio032/blob/output/github-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pio032/pio032/output/github-snake-dark.gif">
+  <img alt="snake" src="https://raw.githubusercontent.com/TUO_USERNAME/TUO_USERNAME/output/github-snake.gif">
+</picture>
 
 </div>
