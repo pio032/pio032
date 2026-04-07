@@ -243,7 +243,7 @@ I enjoy the challenge of building reliable, self-hosted systems from scratch.
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pio032&theme=dark&hide_border=true&title_color=0969da&icon_color=0969da" height="170" alt="streak stats"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pio032&layout=compact&theme=github_dark&hide_border=true&title_color=0969da" height="170" alt="top languages"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pio032&layout=compact&theme=github_dark" height="170"/>
     </td>
   </tr>
   <tr>
