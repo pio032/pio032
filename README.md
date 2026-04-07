@@ -35,6 +35,7 @@ I've worked primarily with Node.js and Express on the backend, MySQL as a relati
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
+![Medusa](https://img.shields.io/badge/Medusa.js-121212?style=for-the-badge&logo=medusa&logoColor=white)
 
 **Database**
 
@@ -52,6 +53,7 @@ I've worked primarily with Node.js and Express on the backend, MySQL as a relati
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Tools & Workflow**
 
